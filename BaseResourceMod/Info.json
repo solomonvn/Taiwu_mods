@@ -1,6 +1,6 @@
 ﻿{
   "Id": "BaseResourceMod",
-  "DisplayName": "基础资源框架",
+  "DisplayName": "BaseResourceMod",
   "Author": "phorcys",
   "Version": "1.0.14.4",
   "AssemblyName": "BaseResourceMod.dll",

@@ -1,6 +1,6 @@
 ﻿{
     "Id": "TreasureDetector",
-    "DisplayName": "<b><color=#FFFF3FFF>◎ 寻宝神器 Treasure Detector ◎</color></b>",
+    "DisplayName": "TreasureDetectorCNS",
     "Author": "Eiffel",
     "Version": "1.0.3",
     "AssemblyName": "TreasureDetector.dll",
